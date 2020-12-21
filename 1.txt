@@ -1,4 +1,0 @@
-This is my start.
-This is my second commit.
-
-This is Reza's work.
